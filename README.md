@@ -1,6 +1,6 @@
 # Manipulando dados :chart_with_upwards_trend:
 
-#### Projeto que visa práticas em manipulações de dados utilizando a biblioteca Pandas em Python. 
+#### Projeto que visa práticas em manipulações de dados utilizando a biblioteca Pandas em Python e Javascript. 
 
 
 ## Como executar:
